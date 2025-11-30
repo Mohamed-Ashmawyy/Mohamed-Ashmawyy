@@ -7,7 +7,7 @@
 
 ---
 
-### 👋 Hello there! I'm Mohamed Ashmawy.
+### 👋About Me.
 
 I'm a final-year Computer Science student with a deep passion for **Offensive Security**. My goal is to think like an adversary to uncover vulnerabilities and help build more secure systems. I thrive on hands-on challenges, which is why you'll often find me sharpening my skills on platforms like [**TryHackMe**](https://tryhackme.com/p/B1g0x411), **HTB** and **portswigger**
 
@@ -16,6 +16,8 @@ I'm a final-year Computer Science student with a deep passion for **Offensive Se
 - 👯 I’m looking to collaborate on open-source security tools or CTF challenges.
 - 💬 Ask me about anything related to Linux, network security, or ethical hacking!
 - 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/mohamedashmawyy )
+---
+![Hacker](https://i.giphy.com/media/YQitE4YNQNahy/giphy.webp)
 ---
 
 ### 🛠️ My Tech Stack & Tools
